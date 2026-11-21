@@ -28,6 +28,13 @@
 
 ## 装
 
+### 最省事：下 exe
+
+去 [Releases](https://github.com/ymy52022/nowplaying/releases) 下 `nowplaying.exe`，
+双击就跑，不用装 Python、不用装依赖，直接弹出小窗。
+
+> 需要 Edge WebView2 运行时（Windows 10/11 基本都自带）。
+
 ### Windows（一把梭）
 
 1. 装 [Python 3.10+](https://www.python.org/downloads/)（安装时勾上 *Add python.exe to PATH*）
