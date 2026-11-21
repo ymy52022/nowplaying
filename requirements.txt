@@ -1,0 +1,3 @@
+soundcard>=0.4.3
+numpy>=1.24
+shazamio>=0.7.0
